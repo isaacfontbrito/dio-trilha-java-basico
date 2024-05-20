@@ -23,7 +23,11 @@ public class Operadores {
 
         boolean verdadeiro = true;
 
-        System.out.println("Inverteu " + !verdadeiro);
+        //System.out.println("Inverteu " + !verdadeiro);
+
+        verdadeiro = !verdadeiro;
+        
+        System.out.println(verdadeiro);
         
     }
 }
