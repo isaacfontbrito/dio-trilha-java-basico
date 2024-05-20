@@ -1,25 +1,41 @@
 public class Operadores {
     public static void  main(String[] args) {
-        String nomeCompleto = "LINGUAGEM " + "JAVA";
         
-        System.out.println(nomeCompleto);
+        // Operadores Unários
 
-        String concatenacao = "?";
+        //classe Operadores.java
+        int numero = 5;
+		
+        //Imprimindo o numero negativo
+        System.out.println(- numero);
 
-        concatenacao = 1+1+1+"1";
+        //incrementando numero em mais 1 numero, imprime 6
+        numero ++;
+        System.out.println(numero);
 
-        System.out.println(concatenacao);
+        //incrementando numero em mais 1 numero, imprime 7
+        System.out.println(numero ++);// ops algo de errado não está certo
 
-        concatenacao = 1+"1"+1+1;
+        System.out.println(numero);// agora sim, numero virou 7
 
-        System.out.println(concatenacao);
+        //ordem de precedencia conta aqui
+        System.out.println(++ numero);
 
-        concatenacao = 1+"1"+1+"1";
+        boolean verdadeiro = true;
 
-        System.out.println(concatenacao);
-
-        concatenacao = "1"+(1+1+1);
-
-        System.out.println(concatenacao);
-
+        System.out.println("Inverteu " + !verdadeiro);
+        
+    }
 }
+// Esses operadores, são aplicados juntamente com um outro operador aritmético. Eles realizam alguns 
+// trabalhos básicos como incrementar, decrementar, inverter valores numéricos e booleanos.
+
+// (+) Operador unário de valor positivo – números são positivos sem esse operador explicitamente;
+
+// (-) Operador unário de valor negativo – nega um número ou expressão aritmética;
+
+// (++) Operador unário de incremento de valor – incrementa o valor em 1 unidade;
+
+// (--) Operador unário de decremento de valor – decrementa o valor em 1 unidade;
+
+// (!) Operador unário lógico de negação – nega o valor de uma expressão booleana.
