@@ -11,7 +11,7 @@ public class Pratica {
         
         System.out.println("[----------Sistema de Notas-----------] ");
         System.out.println("    E.E.M JOAQUIM BASTOS GONSALVES      ");
-        for (int nome = 1; nome <= 1; nome++) {
+        for (int nome = 1; nome <= 5; nome++) {
             
             System.out.println("Digite seu nome: ");
             String nomes = scanner.next();

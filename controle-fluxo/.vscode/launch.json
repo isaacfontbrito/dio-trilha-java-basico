@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "CondicaoTernaria",
+            "request": "launch",
+            "mainClass": "CondicaoTernaria",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArry",
+            "request": "launch",
+            "mainClass": "ExemploForArry",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ExepmloDoWhile",
+            "request": "launch",
+            "mainClass": "ExepmloDoWhile",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "Pratica",
+            "request": "launch",
+            "mainClass": "Pratica",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "controle-fluxo_8dfa13c"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "controle-fluxo_8dfa13c"
+        }
+    ]
+}
